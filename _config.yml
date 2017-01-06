@@ -1,26 +1,26 @@
-url: https://y7kim.github.io
+﻿url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: UC3Music
-email: uc3music@gmail.com
+title: Almacenes Juanma
+email: almacenes.juanma@gmail.com
 description: 
-    Asociación universitaria. Música, cacharros y ruido, aunque no necesariamente en este orden.
+    Almacén de materiales Juan Manuel Frutos S.L.
 baseurl: ""
-url: "http://uc3music.github.io" 
+url: "https://jorfru.github.io/AlmacenesJuanmaWebpage/" 
 twitter_username: UC3Music
 github_username:  uc3music
 mailing_list: https://groups.google.com/forum/#!forum/uc3music-e
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: c22425
-  secondary: fec503  
+  primary: 4e8bb8
+  secondary: 2c6099  
   secondary-dark: 333
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Azulejos
   pic: 1
   position: Lead Designer
   social:
@@ -31,7 +31,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Pavimentos
   pic: 2
   position: Lead Marketer
   social:
@@ -42,7 +42,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Baños
   pic: 3
   position: Lead Developer
   social:
@@ -53,27 +53,30 @@ people:
     - title: google-plus
       url: #
 
+- name: Cocinas
+  pic: 4
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: youtube
-    url: https://www.youtube.com/user/uc3musice
-  - title: twitter
-    url: http://twitter.com/UC3Music
   - title: facebook
-    url: https://www.facebook.com/UC3Music
-  - title: google-plus 
-    url: https://plus.google.com/106612607188215480971
+    url: https://www.facebook.com/ALMACENES-JUANMA-materiales-de-construccion-130872176936754/?fref=ts
   - title: envelope
-    url : mailto:uc3music@gmail.com 
-  - title: github
-    url: http://github.com/UC3Music
-  - title: linkedin
-    url: https://www.linkedin.com/in/uc3music
+    url : mailto:almacenes.juanma@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Crta. Miraflores a Guadalix M-626 P.K. 6.
+  - line: 28792 Miraflores de la Sierra (Madrid)
+  - line: 91 844 52 88
+  - line: almacenes.juanma@gmail.com
 
 # Build settings
 markdown: kramdown

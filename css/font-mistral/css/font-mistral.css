@@ -1,0 +1,7 @@
+/* FONT PATH
+ * -------------------------- */
+
+@font-face {
+   font-family: 'mistral'; 
+   src: url('../fonts/mistral.ttf');
+}
