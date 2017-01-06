@@ -65,7 +65,7 @@ people:
       url: #
 
 # Camiones
-camiones:
+camion:
 - name: Camiones
   pic: 1
   position: Transportes y servicios de grúa
@@ -90,7 +90,7 @@ camiones:
 
 - name: Contenedores
   pic: 3
-  position: Residuos de construcción
+  position: Retirada de escombros
   social:
     - title: twitter
       url: #
