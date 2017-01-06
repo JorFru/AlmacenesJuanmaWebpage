@@ -64,6 +64,41 @@ people:
     - title: stack-overflow
       url: #
 
+# Camiones
+camiones:
+- name: Camiones
+  pic: 1
+  position: Transportes y servicios de grúa
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Maquinaria
+  pic: 2
+  position: Movimiento de tierra
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Contenedores
+  pic: 3
+  position: Residuos de construcción
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
