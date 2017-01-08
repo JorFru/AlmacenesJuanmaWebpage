@@ -64,7 +64,7 @@ people:
     - title: stack-overflow
       url: #
 
-# Camiones
+# Camion
 camion:
 - name: Camiones
   pic: 1
@@ -91,6 +91,96 @@ camion:
 - name: Contenedores
   pic: 3
   position: Retirada de escombros
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Materiales
+material:
+- name: Materiales de construcción
+  pic: 1
+  position: Ladrillos, tejas, etc
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Azulejos y pavimentos
+  pic: 2
+  position: Visite nuestra exposición de materiales
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Baños y cocinas
+  pic: 3
+  position: Exposición permanente
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Suelos laminados
+  pic: 5
+  position: Parquet
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Césped artificial
+  pic: 6
+  position: Exposición permanente
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Piscina
+  pic: 7
+  position: Mantenimiento y accesorios
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Pintura
+  pic: 8
+  position: Colores a la carta con nuetra máquina tintométrica
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Traviesas
+  pic: 9
+  position: Exposición permanente
   social:
     - title: twitter
       url: #
