@@ -103,7 +103,7 @@ camion:
 material:
 - name: Materiales de construcción
   pic: 1
-  position: Ladrillos, tejas, etc
+  position: Disponibilidad inmediata
   social:
     - title: twitter
       url: #
@@ -134,7 +134,7 @@ material:
     - title: google-plus
       url: #
 
-- name: Suelos laminados
+- name: Tarimas laminadas
   pic: 5
   position: Parquet
   social:
@@ -147,7 +147,7 @@ material:
 
 - name: Césped artificial
   pic: 6
-  position: Exposición permanente
+  position: En exposición
   social:
     - title: twitter
       url: #
@@ -180,7 +180,7 @@ material:
 
 - name: Traviesas
   pic: 9
-  position: Exposición permanente
+  position: Tratadas y sin tratar
   social:
     - title: twitter
       url: #
