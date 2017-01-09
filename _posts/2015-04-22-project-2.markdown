@@ -1,5 +1,5 @@
 ---
-title: Estufa Tepor 8KW
+title: Estufa Ravelli 12KW
 subtitle:
 layout: default
 modal-id: 1
