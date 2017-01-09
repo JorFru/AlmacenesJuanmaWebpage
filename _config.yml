@@ -135,7 +135,7 @@ material:
       url: #
 
 - name: Tarimas laminadas
-  pic: 5
+  pic: 4
   position: Parquet
   social:
     - title: twitter
@@ -146,7 +146,7 @@ material:
       url: #
 
 - name: Césped artificial
-  pic: 6
+  pic: 5
   position: En exposición
   social:
     - title: twitter
@@ -157,7 +157,7 @@ material:
       url: #
 
 - name: Piscina
-  pic: 7
+  pic: 6
   position: Mantenimiento y accesorios
   social:
     - title: twitter
@@ -168,8 +168,8 @@ material:
       url: #
 
 - name: Pintura
-  pic: 8
-  position: Colores a la carta con nuetra máquina tintométrica
+  pic: 7
+  position: Colores a la carta con nuestra máquina tintométrica
   social:
     - title: twitter
       url: #
@@ -179,8 +179,19 @@ material:
       url: #
 
 - name: Traviesas
-  pic: 9
+  pic: 8
   position: Tratadas y sin tratar
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Ferretería y herramientas
+  pic: 9
+  position: Tienda de 100m²
   social:
     - title: twitter
       url: #
