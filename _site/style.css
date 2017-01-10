@@ -126,12 +126,12 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 20px 40px;
+    padding: 10px 20px;
     border-color: #4e8bb8;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 700;
     color: #fff;
     background-color: #4e8bb8;
@@ -706,28 +706,28 @@ section#contactanos::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    color: #bbb;
+    color: #fff;
 }
 
 section#contactanos:-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    color: #bbb;
+    color: #fff;
 }
 
 section#contactanos::-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    color: #bbb;
+    color: #fff;
 }
 
 section#contactanos:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    color: #bbb;
+    color: #fff;
 }
 
 section#contactanos .text-danger {
@@ -735,6 +735,7 @@ section#contactanos .text-danger {
 }
 
 footer {
+    background-color: #222;
     padding: 25px 0;
     text-align: center;
 }
@@ -743,7 +744,8 @@ footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    line-height: 40px;
+    line-height: 20px;
+    color: #fff;
 }
 
 footer ul.quicklinks {
@@ -883,4 +885,27 @@ body {
     .pick-logo {
         width: 200px;
    }
+}
+
+
+.copy-left {
+
+display: inline-block;
+
+text-align: right;
+
+margin: 0px;
+
+-moz-transform: scaleX(-1);
+
+-o-transform: scaleX(-1);
+
+-webkit-transform: scaleX(-1);
+
+transform: scaleX(-1);
+
+filter: FlipH;
+
+-ms-filter: "FlipH";
+
 }
