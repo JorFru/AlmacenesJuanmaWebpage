@@ -134,6 +134,17 @@ fieldset[disabled] .btn-primary.active {
     background-color: #{{ site.color.primary }};
 }
 
+.btn-xs {
+    padding: 10px 20px;
+    border-color: #{{ site.color.primary }};
+    border-radius: 3px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #0e0;
+}
+
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
@@ -981,6 +992,19 @@ section#empresa:-ms-input-placeholder {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
+}
+
+.xs {
+    background-color: 0;
+}
+
+.xs:hover,
+.xs:focus,
+.xs:active,
+.xs.active{
+    border-color: #{{ site.color.primary }};
+    color: #fff;
+    background-color: #222;
 }
 
 .copy-left {
