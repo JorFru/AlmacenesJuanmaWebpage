@@ -344,6 +344,16 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+section h3.section-final {
+    margin-bottom: 100px;
+    text-transform: none;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+
 @media(min-width:768px) {
     section {
         padding: 150px 0;
@@ -985,7 +995,10 @@ filter: FlipH;
 -ms-filter: "FlipH";
 }
 
-.map
-{
-    
+.map{
+
+}
+
+.espacio{
+    margin-bottom: 250px;
 }
