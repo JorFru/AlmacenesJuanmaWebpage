@@ -14,6 +14,10 @@ body {
     color: #777;
 }
 
+.gris {
+    color: #ccc;
+}
+
 .text-primary {
     color: #{{ site.color.primary }};
 }
@@ -657,7 +661,7 @@ aside.clients img {
 section#contactanos {
     background-color: #222;
     background-image: url(../img/logojuanma.png);
-    background-position: center bottom;
+    background-position: center top;
     background-repeat: no-repeat;
 }
 
@@ -881,24 +885,107 @@ body {
 }
 
 
+
+
+section#empresa {
+    text-align: center;
+    background-color: #222;
+    background-image: url(../img/logojuanma.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+
+@media screen and (max-width: 1000px) {
+    section#empresa {
+        background-color: #222;
+        background-image: none;
+    }
+}
+
+section#empresa .intro-heading {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 25px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+section#empresa .intro-lead-in {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 25px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    line-height: 40px;
+}
+
+section#empresa .form-group {
+    margin-bottom: 25px;
+}
+
+section#empresa .form-group input,
+section#empresa .form-group textarea {
+    padding: 20px;
+}
+
+section#empresa .form-group input.form-control {
+    height: auto;
+}
+
+section#empresa .form-group textarea.form-control {
+    height: 236px;
+}
+
+section#empresa .form-control:focus {
+    border-color: #{{ site.color.primary }};
+    box-shadow: none;
+}
+
+section#empresa::-webkit-input-placeholder {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+
+section#empresa:-moz-placeholder {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+
+section#empresa::-moz-placeholder {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+
+section#empresa:-ms-input-placeholder {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+
 .copy-left {
-
 display: inline-block;
-
 text-align: right;
-
 margin: 0px;
-
 -moz-transform: scaleX(-1);
-
 -o-transform: scaleX(-1);
-
 -webkit-transform: scaleX(-1);
-
 transform: scaleX(-1);
-
 filter: FlipH;
-
 -ms-filter: "FlipH";
+}
 
+.map
+{
+    
 }
