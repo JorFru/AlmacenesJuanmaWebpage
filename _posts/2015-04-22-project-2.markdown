@@ -1,15 +1,16 @@
 ---
-title: Estufa Ravelli 12KW
+title: Estufa EOSS Noa 7KW
 subtitle:
 layout: default
 modal-id: 1
 date: 2015-04-22
-img: oferta1.png
-thumbnail: oferta1-thumbnail.png
+img: oferta1.jpg
+thumbnail: oferta1.jpg
 alt: image-alt
 project-date: Solo en Enero 2017
-link: https://github.com/UC3Music/uC3Moy
+link: mailto:almacenes.juanma@gmail.com
+precio: 780€ mas IVA
 category: Estufas pellet
-description: Lorem ipsum
+description: Adecuada para cubrir 70m². Rendimiento del 91%. Consumo entre 0,4 y 1,4 kg/h, autonomia de 9 a 32h. Programable. En color burdeos, antracita y blanco.
 
 ---
