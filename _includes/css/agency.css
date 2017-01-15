@@ -58,6 +58,7 @@ h5,
 h6 {
     text-transform: none;
     font-family: Montserrat,"coolvetica",Helvetica,Arial,sans-serif;
+    font-weight: bold;
     font-weight: 700;
 }
 
