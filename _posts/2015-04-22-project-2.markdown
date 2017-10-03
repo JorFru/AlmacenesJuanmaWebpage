@@ -3,9 +3,9 @@ title: Estufa EOSS Noa 7KW
 subtitle:
 layout: default
 modal-id: 1
-date: 2015-04-22
-img: oferta1.jpg
-thumbnail: oferta1.jpg
+date: 2015-04-21
+img: oferta3.jpg
+thumbnail: oferta3.jpg
 alt: image-alt
 project-date: Solo en Enero 2017
 link: mailto:almacenes.juanma@gmail.com
