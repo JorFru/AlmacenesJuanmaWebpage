@@ -12,5 +12,4 @@
 -precio: 750€ mas IVA
 -category: Estufas pellet
 -description: Adecuada para cubrir 70m². Rendimiento del 91%. Consumo entre 0,4 y 1,4 kg/h, autonomia de 9 a 32h. Programable. En color burdeos, antracita y blanco.
--
 ----
