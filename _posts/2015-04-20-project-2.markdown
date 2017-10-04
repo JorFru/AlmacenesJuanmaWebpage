@@ -1,6 +1,6 @@
 ---
 title: EOSS Nepal 19KW
-subtitle: Termochimenea de leña
+subtitle: Cassette insertable
 layout: default
 modal-id: 2
 date: 2015-04-20
