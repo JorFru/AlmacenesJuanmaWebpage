@@ -1,6 +1,6 @@
 ---
-title: Estufa EOSS Noa 7KW
-subtitle:
+title: EOSS Noa 7KW
+subtitle: Estufa de pellets
 layout: default
 modal-id: 1
 date: 2015-04-21
