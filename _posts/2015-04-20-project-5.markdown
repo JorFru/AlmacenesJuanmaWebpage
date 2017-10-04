@@ -1,0 +1,15 @@
+---
+title: Hergom C-3/70 10KW
+subtitle: Cassette insertable
+layout: default
+modal-id: 5
+date: 2015-04-24
+img: oferta5.jpg
+thumbnail: oferta5.jpg
+alt: image-alt
+project-date: Última unidad
+link: mailto:almacenes.juanma@gmail.com
+precio: 720€ mas IVA, transporte no incluido
+category: Estufas de leña
+description: Cassette compacto insertable de fabricación nacional, que cuenta con un sistema de convección forzada que aporta una potencia nominal de 10KW y máxima de 13KW. Construida íntegramente en hierro fundido. Además está equipada con sistemas de seguridad que evitan el sobrecalentamiento.
+---
