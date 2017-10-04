@@ -2,7 +2,7 @@
 title: Estufa Ravelli Lisa Plus 10,5KW
 subtitle:
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2015-04-22
 img: oferta3.jpg
 thumbnail: oferta3.jpg
