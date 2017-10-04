@@ -2,7 +2,7 @@
 title: Termochimenea EOSS Nepal 19KW
 subtitle:
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2015-04-20
 img: oferta2.jpg
 thumbnail: oferta2.jpg
