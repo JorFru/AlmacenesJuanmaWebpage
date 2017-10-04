@@ -1,6 +1,6 @@
 ---
 title: Hergom C-3/70 10KW
-subtitle: Cassette insertable
+subtitle: Cassette insertable de leña
 layout: default
 modal-id: 5
 date: 2015-04-24
