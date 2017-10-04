@@ -1,6 +1,6 @@
 ---
-title: Estufa Ravelli Lisa Plus 10,5KW
-subtitle:
+title: Ravelli Lisa Plus 10,5KW
+subtitle: Estufa de pellets
 layout: default
 modal-id: 3
 date: 2015-04-22
