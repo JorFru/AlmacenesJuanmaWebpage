@@ -9,7 +9,7 @@ thumbnail: oferta2.jpg
 alt: image-alt
 project-date: Última unidad
 link: mailto:almacenes.juanma@gmail.com
-precio: 780€ mas IVA
+precio: 780€ mas IVA, transporte no incluido
 category: Estufas pellet
 description:
 
