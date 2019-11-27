@@ -8,9 +8,9 @@ description:
     Almacén de materiales Juan Manuel Frutos S.L.
 baseurl: ""
 url: "https://jorfru.github.io/AlmacenesJuanmaWebpage/" 
-twitter_username: UC3Music
-github_username:  uc3music
-mailing_list: https://groups.google.com/forum/#!forum/uc3music-e
+twitter_username: @JorFru_
+github_username:  jorfru
+mailing_list: mailto:almacenes.juanma@gmail.com
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -206,6 +206,8 @@ social:
     url: https://www.facebook.com/ALMACENES-JUANMA-materiales-de-construccion-130872176936754/?fref=ts
   - title: envelope
     url : mailto:almacenes.juanma@gmail.com
+  - title: whatsapp
+    url : +34 649 77 85 14
 
 # Postal address (add as many lines as necessary)
 address:
